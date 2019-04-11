@@ -1,0 +1,11 @@
+STORE_ETL-189 stores (04/03) (P1)
+STORE ETL for store number 3708 - (04/05) (P1)
+CS Processor and LPC reports failure - processed manually (04/01) (P1)
+Gift card SKU Mapping (04/05)
+Ad-hoc run for Sales Posting (04/02)
+PO Failures for NON ASCII Characters in SHIP_ADDRESS1 - Sent mail  to EOM team and got fixed (04/02)
+Paypal settlements re-published @ 2 AM ad-hoc - Analysis of failed records (04/02)
+OHL PO confirm file failures (04/03)
+Shipment confirmation failures from commerce hub (04/04)
+Testing duplicate coupon fix in EQA
+Ran the code for Invoice check process (Invoice_Not_Published- Salesbooking Exceptions) (04/04)
